@@ -15,8 +15,8 @@ random_num = random.randint(min(lower, upper), max(lower, upper))
 
 while (True):
     #TODO replace upper and lower with values without erroring out
-    user_guess = int(input('Great, now guess a number between', lower, 'and', upper,' '))
-    #user_guess = int(input('Great, now guess a number between your upper and lower choices '))
+    #user_guess = int(input('Great, now guess a number between', lower, 'and', upper,' '))
+    user_guess = int(input('Great, now guess a number between your upper and lower choices '))
     if (user_guess < random_num):
         print('Nope, too low. ')
         user_guess = input(('Guess another number: '))
