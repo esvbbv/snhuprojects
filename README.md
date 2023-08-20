@@ -11,4 +11,4 @@ The most essential step in understanding user needs when developing a program is
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?  The agile process is natural and almost second nature to me at this point and I will continue to follow along with user stories and daily scrum meetings to ensure communication remains strong and testing occurs throughout the process.
 
 
-What does it mean to be a good team member in software development?  A good Team member is supportive, communicative and keeps a positive attitude, moving the project forward.
+What does it mean to be a good team member in software development?  A good Team member is supportive, self motivated, drives improvement, is communicative, keeps a positive attitude, and keeps moving the project forward.
